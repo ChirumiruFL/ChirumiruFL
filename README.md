@@ -10,4 +10,4 @@ Join KIZZY custom RPC app.
 </div> 
 
 #  
-![無題92_20221129172637](https://user-images.githubusercontent.com/117464679/204640583-d6b7d466-be75-4b3e-9b19-00db5d53c1b8.png)
+![無題92_20221129173730](https://user-images.githubusercontent.com/117464679/204642503-e6dc361a-9f56-45c5-80e9-7e716258678a.png)
