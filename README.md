@@ -3,7 +3,7 @@
 
 `Some random Fan of Discord RPC`
 
-Join KIZZY custom RPC app. 
+Join KIZZY for RPC app. 
 <a href="https://discord.gg/vUPc7zzpV5">
 <img src="https://dcbadge.vercel.app/api/server/vUPc7zzpV5">
 </a>
@@ -11,3 +11,11 @@ Join KIZZY custom RPC app.
 
 #  
 ![無題92_20221129173730](https://user-images.githubusercontent.com/117464679/204642503-e6dc361a-9f56-45c5-80e9-7e716258678a.png)
+
+> Go away! There's nothing more here. 
+
+- [x] Jp project sekai
+- [x] Global project sekai
+- [ ] Chinese Project sekai
+`also add me if you want on discord`
+> @朝比奈まふゆ#0464 
