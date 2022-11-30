@@ -9,9 +9,9 @@ Join KIZZY for RPC app.
 </a>
 </div> 
 
-# 
-![無題92_20221129181134](https://user-images.githubusercontent.com/117464679/204648512-123910b6-f1b4-4430-b385-623cba719190.png)
-> Go away! There's nothing more here. 
+## 
+![無題92_20221129173730](https://user-images.githubusercontent.com/117464679/204673582-f5df615d-0446-4e7c-951d-d8edb31a89f2.png)
+> status
 
 - [x] Jp project sekai
 - [x] Global project sekai
