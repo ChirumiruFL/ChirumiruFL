@@ -22,6 +22,9 @@ Join KIZZY for RPC app.
 
 > also check [KIZZY app](https://github.com/dead8309/Kizzy) 
 
-## [snake.](https://open.spotify.com/playlist/2y9dxZ2zh1ZwCY8zXW946O?si=E-eEcFQdQ3Sycmgqgtid6A&utm_source=copy-link) 
+## [snake](https://open.spotify.com/playlist/2y9dxZ2zh1ZwCY8zXW946O?si=E-eEcFQdQ3Sycmgqgtid6A&utm_source=copy-link) 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/117464679/204690278-e3bad35a-fc8d-4604-9dc6-3951aca0c276.svg)
 
+## psst! 
+__Hey take 1 dabloon__
+![dHbLSxSwQOqyAzc6Ai0c_IMG_1555](https://user-images.githubusercontent.com/117464679/204700200-69be86ed-62d3-44e4-8e0e-8f91443e6721.jpg)
