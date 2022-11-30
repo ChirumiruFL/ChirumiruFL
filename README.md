@@ -10,8 +10,8 @@ Join KIZZY for RPC app.
 </div> 
 
 
-### states
-[![Discord Presence](https://lanyard.cnrad.dev/api/891490390794964992bg=:00000)](https://discord.com/users/891490390794964992)
+### status
+[![Discord Presence](https://lanyard.cnrad.dev/api/891490390794964992?bg=441152&idleMessage=Nothing%20yet%20&hideDiscrim=true&)](https://discord.com/users/891490390794964992)
 
 - [x] Jp project sekai
 - [x] Global project sekai
