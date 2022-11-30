@@ -9,9 +9,9 @@ Join KIZZY for RPC app.
 </a>
 </div> 
 
-## 
-![無題92_20221129173730](https://user-images.githubusercontent.com/117464679/204673582-f5df615d-0446-4e7c-951d-d8edb31a89f2.png)
-> status
+
+### status
+[![Discord Presence](https://lanyard.cnrad.dev/api/891490390794964992)](https://discord.com/users/891490390794964992)
 
 - [x] Jp project sekai
 - [x] Global project sekai
@@ -24,3 +24,4 @@ Join KIZZY for RPC app.
 
 ## [snake.](https://open.spotify.com/playlist/2y9dxZ2zh1ZwCY8zXW946O?si=E-eEcFQdQ3Sycmgqgtid6A&utm_source=copy-link) 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/117464679/204690278-e3bad35a-fc8d-4604-9dc6-3951aca0c276.svg)
+
