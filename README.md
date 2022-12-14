@@ -11,7 +11,7 @@ Join KIZZY for RPC app.
 
 
 ### status
-<!-- <img src="https://lanyard.cnrad.dev/api/468509605828493322?idleMessage=Probably%20watching%20anime/hanime"> -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20playing%20project%20sekai)](https://discord.com/users/891490390794964992)
 
 
 - [x] Jp project sekai
