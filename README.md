@@ -58,3 +58,7 @@ Be friendly towards other members Help preserve the aura of friendliness in #gen
 When youre ready to enter to the server, Click "verify" to Talk In General
 Tysm for reading 
 - Empty
+
+
+¿Spanish kizzy? 
+LA WEA LA WEA LA WEAA
