@@ -1,7 +1,7 @@
-## 朝比奈まふゆ
-![tumblr_dd0f0d90be024c1352e552f7f73a2c93_3fb198d6_400](https://user-images.githubusercontent.com/117464679/204631787-6d38f98c-c665-4954-8019-ad75513f7ab1.gif)
+## 狂え、狂え。
+![empty-sekai-mizuki-akiyama](https://user-images.githubusercontent.com/117464679/208856789-b4b63be9-ebbf-45e6-a42c-a36e1830473c.gif)
 
-`Some random Fan of Discord RPC`
+`want a custom RPC For Android? join  kizzy!`
 
 Join KIZZY for RPC app. 
 <a href="https://discord.gg/vUPc7zzpV5">
@@ -11,23 +11,21 @@ Join KIZZY for RPC app.
 
 
 ### status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20playing%20project%20sekai)](https://discord.com/users/891490390794964992)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20playing%20project%20sekai)](https://discord.com/users/891490390794964992)
 
 
 - [x] Jp project sekai
 - [x] Global project sekai
-- [ ] Chinese Project sekai
+- [x] traditional Chinese Project sekai
+- [x] Korean project sekai
 
-`also add me if you want on discord`
-> 朝比奈まふゆ#0464 
+`also add me on discord! I'm bored`
 
 > also check [KIZZY app](https://github.com/dead8309/Kizzy) 
 
 ## [snake](https://open.spotify.com/playlist/2y9dxZ2zh1ZwCY8zXW946O?si=E-eEcFQdQ3Sycmgqgtid6A&utm_source=copy-link) 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/117464679/204690278-e3bad35a-fc8d-4604-9dc6-3951aca0c276.svg)
 
-## psst! 
-__Hey take 1 dabloon__
-![dHbLSxSwQOqyAzc6Ai0c_IMG_1555](https://user-images.githubusercontent.com/117464679/204700200-69be86ed-62d3-44e4-8e0e-8f91443e6721.jpg)
 
-- please. 
+
+25時、ナイトコードで。
