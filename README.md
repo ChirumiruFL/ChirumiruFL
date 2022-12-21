@@ -7,7 +7,7 @@ I So happy you are reading this!..
 
 other of my roles: - Mafuyu, Empty miku(Now), kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread SRS.. -
 
-`want a customisable  RPC For Android? join  kizzy!`
+`want a custom  RPC For Android? join  kizzy!`
 NOTE: any Issue/Bug Report it to The server
  on Support or In [GitHub OF Kizzy](https://github.com/dead8309/KizzyRPC/issues/new) 
  scroll down to see the BASIC Rules of kizzy Thanks.`
