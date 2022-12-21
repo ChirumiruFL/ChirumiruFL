@@ -2,6 +2,7 @@
 ![empty-sekai-mizuki-akiyama](https://user-images.githubusercontent.com/117464679/208856789-b4b63be9-ebbf-45e6-a42c-a36e1830473c.gif)
 description:
 hello, I'm a PJSEKAI player and of a other RHYTHMS GAMES! I'm not good, but at least I have fun! <3
+I So happy you are reading this!.. 
 
 
 other of my roles: - Mafuyu, Empty miku(Now), kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread SRS.. -
