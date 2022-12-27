@@ -5,7 +5,7 @@ hello, I'm a PJSEKAI player and of a other RHYTHMS GAMES! I'm not good, but at l
 I So happy you are reading this!.. 
 
 
-other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere(Now) 
+other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya(now) 
 
 `want a custom  RPC For Android? join  kizzy!`
 NOTE: any Issue/Bug Report it to The server
