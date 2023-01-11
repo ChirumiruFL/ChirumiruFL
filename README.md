@@ -5,7 +5,7 @@ hello, I'm a PJSEKAI player and of a other RHYTHMS GAMES! I'm not good, but at l
 I So happy you are reading this!.. 
 
 
-other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya, Reimu *now*
+other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori(now), Monika, A Bread, Flandere, Sakuya, Reimu, 
 
 `want a custom  RPC For Android? join  kizzy!`
 NOTE: any Issue/Bug Report it to The server
@@ -17,7 +17,7 @@ Join KIZZY for RPC app.
 <img src="https://dcbadge.vercel.app/api/server/vUPc7zzpV5">
 </a>
 </div> 
-
+I quit discord
 
 ### status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20playing%20project%20sekai)](https://discord.com/users/891490390794964992)
