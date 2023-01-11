@@ -1,6 +1,5 @@
 ## 狂え、狂え。
-![empty-sekai-mizuki-akiyama](https://user-images.githubusercontent.com/117464679/208856789-b4b63be9-ebbf-45e6-a42c-a36e1830473c.gif)
-description:
+![abnormality-dancing-girl-vocaloid](https://user-images.githubusercontent.com/117464679/211882563-592c52be-b82a-4ee5-9640-df673d150d4d.gif)description:
 hello, I'm a PJSEKAI player and of a other RHYTHMS GAMES! I'm not good, but at least I have fun! <3
 I So happy you are reading this!.. 
 
@@ -27,3 +26,10 @@ I quit discord
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/117464679/204690278-e3bad35a-fc8d-4604-9dc6-3951aca0c276.svg)
 
 snake, Credits; Idk... Sorry lol
+
+
+
+
+
+
+why I hate myself :(
