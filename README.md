@@ -16,10 +16,11 @@ I quit discord
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20playing%20project%20sekai)](https://discord.com/users/891490390794964992)
 
 
-- [x] Jp project sekai
-- [x] Global project sekai
-- [x] traditional Chinese Project sekai
-- [x] Korean project sekai
+- [x] project sekai | Japanese
+- [x] project sekai | global
+- [x] project sekai | traditional Chinese
+- [x] project sekai | Korean
+- [x] project sekai | rehearsal EDIT[BETA PJSEKAI]
 
 `also add me on discord! I'm bored`
 
