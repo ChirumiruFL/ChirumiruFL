@@ -13,7 +13,7 @@ I So happy you are reading this!..
 
 - [한국어 페이지](https://github.com/ChirumiruFL/korean/blob/main/README.md) 
 
-- [страница на русском]
+- [страница на русском](https://github.com/ChirumiruFL/Russian) 
  
 other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori(now), Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade, cirno, CV01
 
