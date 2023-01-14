@@ -1,4 +1,7 @@
-## emu
+<h2 align="center">hello! I am Emu! </h2>
+<p align="center" alt="" width="">
+    <img alt="" src="assets/standard.gif">
+
 ![abnormality-dancing-girl-vocaloid](https://user-images.githubusercontent.com/117464679/211882563-592c52be-b82a-4ee5-9640-df673d150d4d.gif)description:
 hello, I'm a PJSEKAI player and of a other RHYTHMS GAMES! I'm not good, but at least I have fun! <3
 I So happy you are reading this!.. 
