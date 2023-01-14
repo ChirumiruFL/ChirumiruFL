@@ -3,9 +3,11 @@
 hello, I'm a PJSEKAI player and of a other RHYTHMS GAMES! I'm not good, but at least I have fun! <3
 I So happy you are reading this!.. 
 - PAGES LANGUAGES
-[Spanish Page](https://github.com/ChirumiruFL/Spanish/blob/main/README.md) 
-[Japanese page](https://github.com/ChirumiruFL/Japanese/blob/main/README.md) 
-- 
+
+   [Spanish Page](https://github.com/ChirumiruFL/Spanish/blob/main/README.md) 
+
+- [Japanese page](https://github.com/ChirumiruFL/Japanese/blob/main/README.md) 
+ 
 other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori(now), Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade, cirno, CV01
 
 I quit discord
