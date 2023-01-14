@@ -8,7 +8,7 @@ I So happy you are reading this!..
 
 - [日本語ページ](https://github.com/ChirumiruFL/Japanese/blob/main/README.md) 
 
-- [한국어 페이지]
+- [한국어 페이지](https://github.com/ChirumiruFL/korean/blob/main/README.md) 
 
 - [страница на русском]
  
