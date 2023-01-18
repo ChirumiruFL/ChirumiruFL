@@ -4,7 +4,7 @@
 
 ![abnormality-dancing-girl-vocaloid](https://user-images.githubusercontent.com/117464679/211882563-592c52be-b82a-4ee5-9640-df673d150d4d.gif)description:
 hello, I'm a PJSEKAI player and of a other RHYTHMS GAMES! I'm not good, but at least I have fun! <3
-I So happy you are reading this!.. 
+I So happy you are reading this!.. ALSO, I'm making a website for my INFO I like GITHUB, but it's meh.. 
 - PAGES LANGUAGES
 
    [Página en español](https://github.com/ChirumiruFL/Spanish/blob/main/README.md) 
