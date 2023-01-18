@@ -17,7 +17,7 @@ I So happy you are reading this!..
  
 - [Chinese traditional{W.I.P}]
 
-other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade｢K｣[Now], cirno, CV01
+other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade｢K｣[Now], cirno
 
 I quit discord
 
