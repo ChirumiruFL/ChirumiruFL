@@ -1,4 +1,4 @@
-<h2 align="center">hello! I am K </h2>
+<h2 align="center">hello! I am Chen </h2>
 <p align="center" alt="" width="">
     <img alt="" src="assets/standard.gif">
 
@@ -17,7 +17,7 @@ I So happy you are reading this!.. ALSO, I'm making a website for my INFO I like
  
 - [Chinese traditional{W.I.P}]
 
-other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade｢K｣[Now], cirno
+other of my roles: - Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade, cirno, Chen[now]
 
 I quit discord
 
